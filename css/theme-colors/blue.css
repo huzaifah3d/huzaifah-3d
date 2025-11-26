@@ -1,0 +1,94 @@
+/* TABLE OF CONTENTS
+	1. Theme Blue
+*/
+
+/* 1. Theme Blue */
+a:hover {
+	color: #38b6ff;
+}
+
+.header .logo {
+	background: #38b6ff;
+}
+
+.header .top-menu ul li.active a {
+	color: #38b6ff;
+}
+
+.header .top-menu ul li.active a .icon {
+	color: #38b6ff;
+}
+
+.header .social a:hover .icon {
+	color: #38b6ff;
+}
+
+.card-inner .card-wrap .title span {
+	color: #38b6ff;
+}
+
+.content.inner-top .text p strong {
+	color: #38b6ff;
+}
+
+.content.inner-top .circle-bts a:hover .icon {
+	color: #38b6ff;
+}
+
+.content.inner-top .circle-bts a:hover span {
+	color: #38b6ff;
+}
+
+.service-items .service-item .icon {
+	color: #38b6ff;
+}
+
+.pricing-items .pricing-item .icon {
+	color: #38b6ff;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+	background: #38b6ff;
+}
+
+.pricing-items .pricing-item .lnks .lnk span {
+	color: #38b6ff;
+}
+
+.fuct-items .fuct-item .icon {
+	color: #38b6ff;
+}
+
+.resume-items .resume-item.active .date {
+	color: #38b6ff;
+}
+
+.skills-list ul li .progress .percentage {
+	background: #38b6ff;
+}
+
+.content.works .filter-menu .f_btn.active {
+	color: #38b6ff;
+}
+
+.box-item .image .info:before,
+.box-item .image .info:after {
+	background: #38b6ff;
+}
+
+.contacts-items .contacts-item .icon {
+	color: #38b6ff;
+}
+
+.post-box .blog-content blockquote {
+	border-left-color: #38b6ff;
+}
+
+.post-box .blog-content ul.list-style li:before {
+	background: #38b6ff;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+	color: #38b6ff;
+}
+
